@@ -25,7 +25,7 @@ The objective of Exploratory Data Analysis (EDA) is to analyze and summarize dat
 - **Visualizing Data**: Use visualizations like histograms, boxplots, and scatter plots to understand the distribution and relationships between variables.
 - **Correlation Analysis**: Identify the relationships between variables, including linear or non-linear correlations.
 
-  ### Technologies Used
+### Technologies Used
   - **python**: The primary programming language for data analysis.
   - **pandas**: Used for data manipulation and analysis.
   - **matplotlib**: Empolyed for creating static, animated, and interactive visualizations.
