@@ -1,16 +1,20 @@
 **Name:** KOKKALAKONDA POOJITHA
+
 **Company:** CODETECH IT SOLUTIONS
+
 **ID:** CT08FKD
+
 **Domain:** Data Analytics
+
 **Duration:** Dec 2024 to Jan 2025
+
 **Mentor:** NEELA SANTHOSH KUMAR
 
 ## Overview of the Project
 
 ### Project: Exploratory Data Analysis(EDA)
 ![image](https://github.com/user-attachments/assets/7df98934-81b5-4e65-9d11-ed8e1584c090)
-![Screenshot 2024-12-30 224902](https://github.com/user-attachments/assets/937ba87a-e86e-4609-8bad-00ecec5c222f)
-
+![Screenshot 2024-12-30 224902](https://github.com/user-attachments/assets/bd0e1d94-92d3-46e5-a377-4722470fdfcf)
 
 
 ## Objective
