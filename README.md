@@ -15,6 +15,7 @@
 ### Project: Exploratory Data Analysis(EDA)
 ![image](https://github.com/user-attachments/assets/7df98934-81b5-4e65-9d11-ed8e1584c090)
 ![Screenshot 2024-12-30 224902](https://github.com/user-attachments/assets/bd0e1d94-92d3-46e5-a377-4722470fdfcf)
+![image](https://github.com/user-attachments/assets/64d3bfea-e71e-407a-b86a-8ad9b649bd93)
 
 
 ## Objective
